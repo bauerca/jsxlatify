@@ -1,0 +1,32 @@
+{
+  "name": "jsxlatify",
+  "version": "0.0.1",
+  "description": "Browserify transform for jsxlate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bauerca/jsxlatify.git"
+  },
+  "keywords": [
+    "browserify",
+    "jsxlate",
+    "i18n",
+    "translation"
+  ],
+  "author": "Carl A. Bauer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bauerca/jsxlatify/issues"
+  },
+  "homepage": "https://github.com/bauerca/jsxlatify#readme",
+  "dependencies": {
+    "jsxlate": "^0.3.1",
+    "jsxlate-loader": "^0.3.2"
+  },
+  "devDependencies": {
+    "react": "^0.13.3"
+  }
+}
